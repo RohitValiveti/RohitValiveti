@@ -4,6 +4,3 @@
 </p>
 
 ### Hey there! 👋
-
-I'm Rohit Valiveti
-
